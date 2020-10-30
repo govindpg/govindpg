@@ -3,8 +3,6 @@
 [![HitCount](http://hits.dwyl.com/govindpg/govindpg.svg)](http://hits.dwyl.com/govindpg/govindpg)
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Premier & Photoshop
 - 🌱 I’m currently learning After effects
 - 👯 I’m looking to collaborate on Graphic desginers
